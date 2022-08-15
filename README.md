@@ -1,6 +1,6 @@
 # Setup Debian
 
-![debian](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png)
+![debian](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/200px-Openlogo-debianV2.svg.png)
 
 Setup debian es un script diseñado para mantener nuestro entorno de trabajo, funcional.
 
