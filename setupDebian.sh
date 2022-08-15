@@ -60,7 +60,6 @@ apt install gcc make net-tools gpg curl build-essential tmux vlc -y
 apt install git vim thunderbird keepassxc qbittorrent chromium-common snapd remmina -y 
 
 vscode
-etcher
 vmwareworkstation
 anydesk
 
